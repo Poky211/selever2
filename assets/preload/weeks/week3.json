@@ -1,22 +1,31 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "Vs SeleverStyle",
+	"hideFreeplay": false,
+	"weekBackground": "iglesia_week",
+	"weekBefore": "Selever 2",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
 	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Crimsong",
+			"Selever_Angry",
+			[
+				150,
+				35,
+				79
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"SL_A_Color",
+		"BF_Color",
+		"GF_Color"
+	],
+	"weekName": "VS Selever Plus",
+	"difficulties": "Hard"
 }

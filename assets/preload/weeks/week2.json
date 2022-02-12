@@ -1,22 +1,31 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "Vs Fuckboy",
+	"hideFreeplay": false,
+	"weekBackground": "Selever 3",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"SL_Color",
+		"BF_Color",
+		"GF_Color"
+	],
+	"songs": [
+		[
+			"Attacklovania",
+			"Selever_Angry",
+			[
+				150,
+				35,
+				79
+			]
+		]
+	],
+	"weekName": "VS Selever Extras",
+	"difficulties": "Normal,Hard"
 }
